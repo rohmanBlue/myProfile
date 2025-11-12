@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am was Web devploper enginer want to get job
+Web Developer | Building modern, responsive, and user-friendly web applications | Always learning and exploring new technologies
 
 
 ## 🌐 Socials:
