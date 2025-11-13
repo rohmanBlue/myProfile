@@ -88,8 +88,7 @@ const Knowledge: React.FC = () => {
     "Yayasan Mangrove Lestari",
     "Event CMS",
     "My Profile",
-    "ZyraHouse : sewa tempat tanpa bosen",
-    "Itlo Search engine", 
+    "Luno Event : Jasa pembelian event", 
   ];
 
   return (
