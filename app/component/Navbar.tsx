@@ -15,7 +15,7 @@ export default function Navbar() {
   };
 
   const goHome = () => {
-    window.location.assign("https://yml.com");
+    window.location.assign("https://my-profile-now.vercel.app/");
   };
 
   const goId = (id: string) => {
